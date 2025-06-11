@@ -1,5 +1,5 @@
 # Claims-to-Insights: An Actuarial Data Engineering Project  
-### by Ras Ade
+### by Rasheed Adeyemi
 
 ---
 
