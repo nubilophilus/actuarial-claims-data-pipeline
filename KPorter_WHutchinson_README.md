@@ -71,8 +71,8 @@ Thanks for taking the time to explore this. My goal here was to show how I think
 
 If you're looking for someone who can translate between actuarial logic, cloud data tools, and real-world insurance problems, I’d love to talk more.
 
-📧 Email: [YourEmail@example.com]  
-🌐 LinkedIn: [linkedin.com/in/rasade]  
+📧 Email: [radeyemi2@kemper.com]  
+🌐 LinkedIn: [http://linkedin.com/in/radeyemi]  
 📍 Based in Henderson, NV – open to remote or hybrid
 
 ---
